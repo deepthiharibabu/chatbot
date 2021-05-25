@@ -1,2 +1,2 @@
 # chatbot
-Hackhathon - Creation of chatbot for an application
+Hackathon - Creation of chatbot for an application
